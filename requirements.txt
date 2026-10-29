@@ -1,0 +1,2 @@
+# Core app and offline evaluator use only the Python standard library.
+# No pip installation required for offline mode.
